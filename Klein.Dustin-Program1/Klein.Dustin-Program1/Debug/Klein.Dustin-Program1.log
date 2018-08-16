@@ -1,4 +1,0 @@
-﻿  InterestCalculator.cpp
-c:\users\dustin\documents\visual studio 2015\projects\klein.dustin-program1\klein.dustin-program1\interestcalculator.cpp(65): warning C4715: 'calculateInterestRate': not all control paths return a value
-  Klein.Dustin-Program1.vcxproj -> C:\Users\Dustin\Documents\Visual Studio 2015\Projects\Klein.Dustin-Program1\Debug\Klein.Dustin-Program1.exe
-  Klein.Dustin-Program1.vcxproj -> C:\Users\Dustin\Documents\Visual Studio 2015\Projects\Klein.Dustin-Program1\Debug\Klein.Dustin-Program1.pdb (Full PDB)
