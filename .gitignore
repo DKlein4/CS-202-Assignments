@@ -332,7 +332,7 @@ ASALocalRun/
 .localhistory/
 
 
-.vcxproj
-.vcxproj.filters
+*.vcxproj
+*.vcxproj.filters
 
-.sln
+*.sln
