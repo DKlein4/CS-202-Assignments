@@ -1,0 +1,13 @@
+--------------------------------Food Inventory--------------------------------
+Blueberry with Barcode:1234:
+It's Price = 5.99 and was produced on 2/13/2017
+Blueberry has 80% off, final price is 1.198
+------------------------------------------------------------------------------
+Strawberry with Barcode:23456:
+It's Price = 7.99 and was produced on 2/22/2017
+Strawberry not on sale
+------------------------------------------------------------------------------
+Chicken with Barcode:24765:
+It's Price = 15.5 and was produced on 2/23/2017
+Chicken has 20% off, final price is 12.4
+------------------------------------------------------------------------------
